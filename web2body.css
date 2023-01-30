@@ -3,7 +3,7 @@
 	height: 100vh;
 	
 /* 渐变色 */
-	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url(合照1.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url(images/nn.jpg);
 	background-position: left;
 	background-repeat: no-repeat;
 }
@@ -63,17 +63,17 @@ button{
 	
 }
 .card1{
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(小1.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(images/nn.jpg);
 }
 .card2{
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(小2.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(images/nn.jpg);
 	
 }
 .card3{
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(小3.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(images/nn.jpg);
 }
 .card4{
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(小4.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url(images/nn.jpg);
 }
 .card:hover{
 	transform: translateY(-10px);
@@ -81,14 +81,14 @@ button{
 	
 }
 .card1:hover {
-	background-image: url(小1.jpg);
+	background-image: url(images/nn.jpg);
 }
 .card2:hover {
-	background-image: url(小2.jpg);
+	background-image: url(images/nn.jpg);
 }
 .card3:hover {
-	background-image: url(小3.jpg);
+	background-image: url(images/nn.jpg);
 }
 .card4:hover {
-	background-image: url(小4.jpg);
+	background-image: url(images/nn.jpg);
 }
